@@ -1,0 +1,164 @@
+.header{
+    position:fixed;
+    width: 100%;
+background:white;
+    overflow: hidden;
+    top: 0;
+    z-index: 109
+
+
+}
+body {
+    background-size: cover;
+}
+
+.bgvideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -9999;
+}
+
+.imgBaner  img{
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+   display: flex;
+    justify-content: center;
+
+}
+.imgfilm img{
+    max-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.logotip img       {
+    min-width: 100%;
+    min-height: 100%;
+    width: 100px;
+    height: 100px;
+
+}
+.ottt
+{
+    padding-top: 150px
+}
+.oyoyoy
+{
+    padding-bottom:  130px
+}
+ .anchor1 {
+     padding-top: 600px;
+     margin-top: -150px;
+     -webkit-background-clip: content-box;
+     background-clip: content-box;
+ }
+.anchor {
+    padding-top: 600px;
+    margin-top: -100px;
+    -webkit-background-clip: content-box;
+    background-clip: content-box;
+}
+ .imgobkino img{
+     display: flex;
+  margin: 0 0 10px 20px;
+     width: 315px;
+     float: left;
+
+
+ }
+ .textopisanie{
+     display: flex;
+     justify-content: center;
+    background: antiquewhite;
+     margin-left: 20px;
+
+
+ }
+.imgseans img{
+mso-element-frame-vspace: 15px;
+    -webkit-border-horizontal-spacing: 15px;
+
+
+}
+.treler{
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+padding-right: 900px;
+}
+
+.infokinoteatr img{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;}
+
+
+footer{
+    height: 15vh;
+    background:  #42AAFF;
+    width: 89.5%;
+    margin-left: 176px;
+    padding: 20px 0;
+    border-bottom: 3px solid rgb(33, 31, 31);
+    border-right: 3px solid rgb(33, 31, 31);
+    border-left: 3px solid rgb(33, 31, 31);
+    position: relative;
+}
+
+footer p{
+    color: black;
+    margin: 10px 0;
+}
+
+.copyright{
+    font-size: 14px;
+    text-align:center;
+    border-top: 5px solid #fff;
+    color: wheat;
+}
+
+@font-face {
+font-family: "RalewayRegular";
+
+src: url("../fonts/PoiretOne-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+h1{
+    font-family: "RalewayRegular";
+}
+p{
+    font-family: "RalewayRegular";
+}
+li{
+    font-family: "RalewayRegular";
+}
+
+
+
+
+@media screen and (max-width: 1280px)
+{ div.contentblock {width: 1200px;} }
+@media screen and (max-width: 1140px)
+{ div.contentblock {width: 1024px;}  }
+@media screen and (max-width: 992px)
+{ div. contentblock {width: 970px;} }
+
+
+
+
+
+
+
+
+
+
